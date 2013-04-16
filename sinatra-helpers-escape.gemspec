@@ -7,7 +7,7 @@
 
 spec = Gem::Specification.new { |s|
 	s.name         = 'sinatra-helpers-escape'
-	s.version      = '0.0.1'
+	s.version      = '0.1.0'
 	s.summary      = "Sinatra helpers for HTML escaping."
 	s.description  = "Helpers for HTML escaping in Sinatra."
 	s.author       = "Philipp Kempgen"
